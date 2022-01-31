@@ -16,7 +16,7 @@ import SafariServices
 typealias PlatformViewController = NSViewController
 #endif
 
-let extensionBundleIdentifier = "org.sperixlabs.Hack-Tools.Extension"
+let extensionBundleIdentifier = "org.sperixlabs.HackTools.Extension"
 
 class ViewController: PlatformViewController, WKNavigationDelegate, WKScriptMessageHandler {
 
