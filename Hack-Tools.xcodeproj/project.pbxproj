@@ -43,6 +43,10 @@
 		69BCB49A27A8A2CC00046272 /* 448.bundle.js.LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 69BCB49527A8A2CC00046272 /* 448.bundle.js.LICENSE.txt */; };
 		69BCB49B27A8A2CC00046272 /* src in Resources */ = {isa = PBXBuildFile; fileRef = 69BCB49627A8A2CC00046272 /* src */; };
 		69BCB49C27A8A2CC00046272 /* src in Resources */ = {isa = PBXBuildFile; fileRef = 69BCB49627A8A2CC00046272 /* src */; };
+		69FE5BFC29BDA7CB00201FDF /* 918.bundle.js.LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 69FE5BFA29BDA7CB00201FDF /* 918.bundle.js.LICENSE.txt */; };
+		69FE5BFD29BDA7CB00201FDF /* 918.bundle.js.LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 69FE5BFA29BDA7CB00201FDF /* 918.bundle.js.LICENSE.txt */; };
+		69FE5BFE29BDA7CB00201FDF /* 918.bundle.js in Resources */ = {isa = PBXBuildFile; fileRef = 69FE5BFB29BDA7CB00201FDF /* 918.bundle.js */; };
+		69FE5BFF29BDA7CB00201FDF /* 918.bundle.js in Resources */ = {isa = PBXBuildFile; fileRef = 69FE5BFB29BDA7CB00201FDF /* 918.bundle.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -117,6 +121,8 @@
 		69BCB49427A8A2CC00046272 /* 448.bundle.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = 448.bundle.js; sourceTree = "<group>"; };
 		69BCB49527A8A2CC00046272 /* 448.bundle.js.LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 448.bundle.js.LICENSE.txt; sourceTree = "<group>"; };
 		69BCB49627A8A2CC00046272 /* src */ = {isa = PBXFileReference; lastKnownFileType = folder; path = src; sourceTree = "<group>"; };
+		69FE5BFA29BDA7CB00201FDF /* 918.bundle.js.LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 918.bundle.js.LICENSE.txt; sourceTree = "<group>"; };
+		69FE5BFB29BDA7CB00201FDF /* 918.bundle.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = 918.bundle.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -198,6 +204,8 @@
 		690022E32672CFDD00D6C9BC /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				69FE5BFB29BDA7CB00201FDF /* 918.bundle.js */,
+				69FE5BFA29BDA7CB00201FDF /* 918.bundle.js.LICENSE.txt */,
 				69BCB49427A8A2CC00046272 /* 448.bundle.js */,
 				69BCB49527A8A2CC00046272 /* 448.bundle.js.LICENSE.txt */,
 				69BCB49627A8A2CC00046272 /* src */,
@@ -415,6 +423,8 @@
 				690023632672D07800D6C9BC /* index.html in Resources */,
 				690023302672CFDD00D6C9BC /* manifest.json in Resources */,
 				69BCB49727A8A2CC00046272 /* 448.bundle.js in Resources */,
+				69FE5BFE29BDA7CB00201FDF /* 918.bundle.js in Resources */,
+				69FE5BFC29BDA7CB00201FDF /* 918.bundle.js.LICENSE.txt in Resources */,
 				69BCB49B27A8A2CC00046272 /* src in Resources */,
 				69BCB49927A8A2CC00046272 /* 448.bundle.js.LICENSE.txt in Resources */,
 			);
@@ -429,6 +439,8 @@
 				690023642672D07800D6C9BC /* index.html in Resources */,
 				690023312672CFDD00D6C9BC /* manifest.json in Resources */,
 				69BCB49827A8A2CC00046272 /* 448.bundle.js in Resources */,
+				69FE5BFF29BDA7CB00201FDF /* 918.bundle.js in Resources */,
+				69FE5BFD29BDA7CB00201FDF /* 918.bundle.js.LICENSE.txt in Resources */,
 				69BCB49C27A8A2CC00046272 /* src in Resources */,
 				69BCB49A27A8A2CC00046272 /* 448.bundle.js.LICENSE.txt in Resources */,
 			);
